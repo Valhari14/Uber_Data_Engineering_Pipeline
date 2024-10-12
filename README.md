@@ -45,7 +45,3 @@ The architecture for the ETL process is as follows:
 - **Modern Data Pipeline Tool**: [Mage](https://www.mage.ai/)
 
 
-## Conclusion
-
-This project showcases the use of modern data engineering tools on GCP to perform efficient ETL and data analytics on Uber trip data. The pipeline is scalable, automated, and provides real-time insights through Looker.
-
